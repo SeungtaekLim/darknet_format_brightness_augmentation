@@ -1,4 +1,4 @@
-darknet format만 사용 가능
+darknet format만 사용 가능 
 
 ![image](https://github.com/user-attachments/assets/45a8de3c-00aa-4550-81bf-998916feefb3)
 
